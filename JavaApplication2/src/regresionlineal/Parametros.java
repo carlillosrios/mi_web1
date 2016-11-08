@@ -91,6 +91,7 @@ public class Parametros {
         //Agustin sanchez macias
         //Luis Manuel Nájera García
         //Miguel Angel Quiroz Jiménez
+        //Juan Carlos Rios Vargas
         
     }
     
