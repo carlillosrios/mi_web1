@@ -89,6 +89,7 @@ public class Parametros {
           System.out.println("El valor de Ryk como resultado FINAL es: "+ResultYk);
                   
         //Agustin sanchez macias
+        //Luis Manuel Nájera García
         
         
     }
