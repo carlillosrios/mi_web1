@@ -88,7 +88,7 @@ public class Parametros {
           System.out.println("El valor de B0 es: "+ResultB0);
           System.out.println("El valor de Ryk como resultado FINAL es: "+ResultYk);
                   
-        
+        //Luis Manuel Nájera García
         
         
     }
