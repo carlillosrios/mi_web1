@@ -92,7 +92,7 @@ public class Parametros {
         //Luis Manuel Nájera García
         //Miguel Angel Quiroz Jiménez
         //Juan Carlos Rios Vargas
-        
+        //Marlon Rafael Dominguez Sanchez
     }
     
 }
